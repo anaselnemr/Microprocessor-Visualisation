@@ -135,11 +135,4 @@ Within those limits, the engine matches the textbook semantics — operand forwa
 
 ## Authors
 
-- **Anas ElNemr** — <https://github.com/anaselnemr>
-- **Ahmed Eltawel** — <https://github.com/ahmedeltawel>
-
----
-
-## Acknowledgements
-
-This repository is a friendly mirror of the original collaboration: <https://github.com/ahmedeltawel/Microprocessor-Project>. Big thanks to Ahmed for the partnership on the original build, and to the GUC Microprocessors teaching team for the assignment that prompted it.
+Anas ElNemr  ·  Ahmed Eltawel
